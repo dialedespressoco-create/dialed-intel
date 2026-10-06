@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-06
+
+### Competitors
+- Prosumer home brands (Rocket, ECM, Profitec) are expanding home-tier lines as a second wave of buyers upgrades from entry machines (Gaggia Classic Pro, Breville) into genuine E61/rotary-pump territory — the "entry-to-prosumer" upgrade pipeline is worth tracking against Dialed's own tiering.
+
+### Content Angles
+- Manual lever revival: spring-lever machines (Flair 58 and similar) are resurging among enthusiasts wanting a tactile, skill-based shot — a real counter-trend to increasing automation elsewhere in the category. Good hook: a "why go manual" video/post tied to lever gear carried.
+
+### Product Opportunities
+- "Coffee Community Census" (thecoffeeroundup.com) analyzed 772 Reddit threads across 115 subreddits to find what gear people genuinely recommend vs. affiliate-driven "best of" lists. Useful source for picking which SKUs to feature based on real community consensus rather than paid placement.
+
 ## 2026-09-30
 
 ### Competitors
