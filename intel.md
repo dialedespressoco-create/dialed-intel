@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-07
+
+### Competitors
+- Imported prosumer espresso brands (ECM, Profitec, Rocket) are the subject of home-espresso social chatter over tariff-driven price hikes — shoppers reportedly rushing to buy before increases land on current inventory.
+
+### Content Angles
+- "Lock in today's price" urgency email/SMS campaign on in-stock imported gear, framed as last-chance-before-tariff-hike — low-cost, no-discount urgency play Dialed could run immediately.
+
+### Product Opportunities
+- Perfect Daily Grind: coffee tariff refunds aren't straightforward — independent green-coffee importers are fronting refund money to roasters with no clear repayment timeline, exposing how exposed small supply-chain players are to tariff volatility (perfectdailygrind.com). Worth monitoring for sourcing/pricing risk.
+
 ## 2026-10-06
 
 ### Competitors
