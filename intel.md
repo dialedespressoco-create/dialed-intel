@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-08
+
+### Competitors
+- Single-dose conical-burr grinders remain the dominant home-espresso gear topic on review sites and forums — CoffeeGeek's latest single-doser review (scored 78) continues a wave of comparisons as buyers favor retention-free dosing over flat-bed/hopper debates.
+
+### Content Angles
+- "Dial-in diary" post-purchase email flow: day 1 setup tips, day 3 troubleshooting sour/bitter shots, day 7 review request + bean restock discount. Cuts support tickets, builds trust, nudges repeat bean orders — low-cost automation Dialed could run today.
+
+### Product Opportunities
+- Perfect Daily Grind: debate is heating up over whether coffee producers can "own" a processing method — as novel fermentation techniques spread, growers are testing IP claims the way varieties once were. Worth watching for future sourcing/content angles tied to exclusive-process coffees.
+
 ## 2026-10-07
 
 ### Competitors
