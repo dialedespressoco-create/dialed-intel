@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-09
+
+### Competitors
+- Home espresso/brewing gear is the fastest-growing coffee category by search (~$6B market, ~8.5% CAGR, outpacing drive-thru and global-origin segments). Breville Barista Express searches are climbing again alongside broader "coffee machine" search volume (+22% YoY) — entry-to-prosumer upgrade demand still strong.
+
+### Content Angles
+- "Build your coffee bar" UGC push: ask customers to post their Dialed setup for a discount code or feature. Rides the at-home-coffee-bar aesthetic trend hot on social right now, costs nothing to run, and generates reusable content for ads/email.
+
+### Product Opportunities
+- Perfect Daily Grind (Oct 9): arabica prices broke back above US$3/lb for the first time since early September as the Brazilian real strengthens — worth watching for green-bean cost pressure. Separately, Costa Coffee returned to profitability leaning on matcha and iced drinks, a signal that non-espresso/cold formats are carrying growth for chains right now.
+
 ## 2026-10-08
 
 ### Competitors
