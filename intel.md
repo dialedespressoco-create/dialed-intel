@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-10
+
+### Competitors
+- Zuriga T2 hands-on impressions surfaced from a Berlin pop-up: built-in scale, five flow/pressure-profiled auto recipes, great build quality — but no custom profiling and ~2028 delivery lead times. A prosumer entrant worth tracking even if it's not shipping soon.
+
+### Content Angles
+- r/espresso's puck-prep debate flared up today — multiple top posts claim skipping WDT (plain grinder-cup shake + tamper-as-distributor, or a "blind shaker") gets zero channeling, same as the ritual tool. Good myth-check video/post hook; avoid over-prescribing WDT in buying guides until this settles.
+
+### Product Opportunities
+- Constant daily demand on r/espresso for "$300-500 full setup" picks (machine+grinder+accessories). Fixed starter bundles by price tier with a simple picker tool would meet this exact, recurring ask and should reduce decision-paralysis drop-off.
+
 ## 2026-10-09
 
 ### Competitors
