@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-11
+
+### Competitors
+- "Flow profiling" is the hot feature trend in home espresso gear right now — Fellow's Series 1 and modded Breville/Gaggia builds are dominating r/espresso buying-advice threads as buyers chase pressure/flow control once locked to commercial machines.
+
+### Content Angles
+- Short "shot comparison" reels (flow-profiled pull vs. standard pull) shot on Dialed's own gear double as product demo content and naturally upsell precision baskets/bottomless portafilters — cheap to produce, rides a trend that's already driving buying-advice traffic.
+
+### Product Opportunities
+- NYC's "Click to Cancel" rule is now enforced, requiring one-click subscription cancellation — worth tracking since similar rules are spreading state by state; relevant if Dialed ever adds a subscription/membership tier.
+
 ## 2026-10-11 (Weekly Summary)
 
 ### Competitors
