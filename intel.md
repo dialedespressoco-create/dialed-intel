@@ -2,6 +2,22 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-11 (Weekly Summary)
+
+### Competitors
+- Prime Day / Big Deal Days dominated the week's espresso coverage — Breville, De'Longhi, and Ninja all leaned hard into deal-and-bundle messaging. De'Longhi specifically pushed combo units (built-in grinder + cold brew) as its differentiator over single-function machines.
+- Prosumer imports (Rocket, ECM, Profitec, Zuriga) stayed in the conversation all week — tariff-driven urgency buying early on, then a hands-on on the Zuriga T2 (built-in scale, auto profiles, ~2028 delivery) mid-week. The entry-to-prosumer upgrade pipeline is the throughline connecting both stories.
+
+### Content Angles
+- Comparison/"best-of" format is winning everywhere right now — 60-machine shootouts, scale buying guides, "3 best X" roundups. Matching that format (not just single-SKU pages) likely earns more search traffic than product pages alone.
+- "At-home coffee bar" aesthetic + holiday gift-guide coverage is ramping up — good moment to start seasonal gifting content now instead of waiting for December.
+- The puck-prep myth-check (WDT vs. no-WDT) is an active, unresolved r/espresso debate — safe content hook, but hold off treating WDT as gospel in buying guides until it settles.
+
+### Product Opportunities
+- Fixed-price-tier starter bundles ($300-500 full setup) are a constant, recurring ask on r/espresso — a simple bundle picker tool would meet real demand instead of making people assemble their own kit.
+- Yeti's French-press redesign (fixing one specific morning annoyance) got real press traction this week — single clear-pain-point accessory redesigns are outearning big machine launches for coverage right now.
+- Green-bean cost pressure (arabica back above $3/lb) plus growing processing-method IP disputes are both worth watching for sourcing risk and future "transparent sourcing" content.
+
 ## 2026-10-10
 
 ### Competitors
