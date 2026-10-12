@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-12
+
+### Competitors
+- r/espresso's recurring consensus (via JamesHoffmann-community buying guides): upgrade the grinder before the machine. Niche Zero is called the "workflow champ," Encore the reliable entry pick, and grinder spend shows diminishing returns past ~$500 — machine choice matters less than buyers assume.
+
+### Content Angles
+- Ride that exact debate: a short "grinder vs. machine — what actually improves your shot" post/email, paired with a grinder+machine starter bundle. Cheap content that taps a conversation shoppers are already having, with a built-in upsell path.
+
+### Product Opportunities
+- Perfect Daily Grind (Oct 2026): coffee ecommerce buyers increasingly expect roast-date freshness and farm/origin traceability before ordering, not just low price — a differentiator Dialed could lean into on product pages/emails.
+
 ## 2026-10-11
 
 ### Competitors
