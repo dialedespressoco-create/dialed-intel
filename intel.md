@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-13
+
+### Competitors
+- Puck-prep is settling into a default, not just a debate anymore — r/espresso and coffee-gear threads now treat WDT tools + paper filters/puck screens as standard kit, with more chatter about dialing in extraction consistency than about machine upgrades.
+
+### Content Angles
+- Package a "First Perfect Shot Kit" (WDT tool + paper filter + basket) as a cheap checkout upsell — rides the puck-prep-as-default trend, boosts AOV, and markets itself with before/after extraction shot photos.
+
+### Product Opportunities
+- Perfect Daily Grind (Oct 2026): matcha and customized drinks are helping specialty shops raise prices without alienating regulars — a pricing-power lever Dialed could study for bundles/add-ons beyond straight espresso gear.
+
 ## 2026-10-12
 
 ### Competitors
