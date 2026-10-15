@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-15
+
+### Competitors
+- "Espresso lemonade" (iced shot + lemonade/tonic) is going viral on TikTok/IG, and r/espresso + home-barista threads are already recreating cafe versions at home — ratios and glassware are the current hot debate.
+
+### Content Angles
+- Ride the trend: a quick "make viral espresso lemonade at home" reel/recipe card using Dialed gear, tagged to the trend — cheap, timely, shareable content with a built-in gear tie-in.
+
+### Product Opportunities
+- Coffee Intelligence (Oct 2026): cheap subscription boxes are eroding margins industry-wide, yet roasters keep offering them for acquisition — Dialed should weigh subscription/bundle pricing carefully rather than racing to the bottom on recurring offers.
+
 ## 2026-10-14
 
 ### Competitors
