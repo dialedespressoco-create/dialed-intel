@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-16
+
+### Competitors
+- Inquirer (Oct 2026): mainstream press is now framing the "rise of the at-home barista" as a hobby/status move, not a budget workaround — premiumization in home espresso keeps getting validated outside gear-specific media.
+
+### Content Angles
+- Launch a "show us your setup" UGC campaign: customers tag their rig, best ones get featured on social/email with a small discount code for participants — cheap, on-brand, builds a real-customer content pipeline.
+
+### Product Opportunities
+- Daily Coffee News (Oct 16): University of Hawaiʻi is leading a new $8M federally funded coffee & cacao research lab tackling leaf rust and climate resilience — signals growing institutional investment in coffee supply security, worth watching for future sourcing-story content.
+
 ## 2026-10-15
 
 ### Competitors
