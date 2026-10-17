@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-17
+
+### Competitors
+- Step-down/precision baskets (VST/WAFO-style) and minimalist single-dose grinders are the current r/espresso obsession — basket choice is now debated as much as the machine. Ceramic portafilters and "water intelligence" systems also show up across 2026 gear-trend roundups.
+
+### Content Angles
+- Build a free "dial-in cheat sheet" (grind + dose by machine/bean) as an email-capture lead magnet on the site — rides the precision-obsession trend, cheap to build, grows the list for repeat/refill sales.
+
+### Product Opportunities
+- 2026 gear-trend roundups flag "repairable, locally serviceable" equipment and ceramic portafilter adoption as rising buyer expectations — worth evaluating spare-parts/upgrade-kit SKUs (ceramic portafilters, serviceable baskets) for repeat-purchase margin.
+
 ## 2026-10-16
 
 ### Competitors
