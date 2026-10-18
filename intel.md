@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-18
+
+### Competitors
+- Gear Patrol (Oct 2026) is pushing back on the "9-bar is gospel" espresso machine design rule, arguing it may be fundamentally flawed — a live debate among gear reviewers questioning flow/pressure dogma that's shaped machine specs for years.
+- The Coffee Chronicler published a fresh "Best Espresso & Coffee Scales" buying guide (Oct 10) — scales keep cycling back as a hot review category alongside grinders and tampers.
+
+### Content Angles
+- Scales are having another content moment — bundle a budget scale with machine/grinder checkout this week, or post a quick "do you actually need a scale?" explainer tied to the trend; cheap upsell riding real search interest.
+
+### Product Opportunities
+- HN's "Free Refills with This Tumbler" thread (a bagel shop sells a $15 reusable cup with free coffee refills, printing pure margin on repeat visits) is a useful small-retail loyalty model — worth testing a similar cheap-reusable + refill-perk mechanic on Dialed's bean/subscription side.
+
 ## 2026-10-18 (Weekly Summary)
 
 ### Competitors
