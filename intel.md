@@ -2,6 +2,22 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-18 (Weekly Summary)
+
+### Competitors
+- The week's throughline is precision obsession going mainstream and down-market: flow profiling (10/11) → grinder-over-machine consensus (10/12) → puck-prep/WDT as standard kit, not debate (10/13) → precision baskets, ceramic portafilters, and "water intelligence" systems (10/17). Buyers increasingly expect commercial-grade shot control at home, not just a nicer machine.
+- Smart, app-connected machines are a secondary but real trend (10/14), and mainstream press (Inquirer, 10/16) is now framing at-home barista-ing as a status hobby rather than a budget workaround — premiumization has broad cultural tailwind this week, not just niche-forum hype.
+
+### Content Angles
+- Holiday gift-guide season opened this week (Serious Eats 27-item roundup, 10/14) and lists lock mid-November — prioritize a dedicated Gift Bundles collection now over slower-burn content.
+- Pair that with a "show us your setup" UGC series (10/16) to ride the premiumization/status angle — cheap, on-brand, and doubles as gift-guide-ready imagery.
+- Viral/trend-riding content (espresso lemonade, 10/15) is fun but short shelf-life; the precision/puck-prep arc and gift bundles are the higher-leverage bets for the next two weeks.
+
+### Product Opportunities
+- Four straight days of signal (10/11, 10/13, 10/17) point to real SKU opportunities, not just content fodder: precision/step-down baskets, ceramic portafilters, WDT/puck-prep kits, and serviceable/repairable parts. Worth a real evaluation, not another blog post.
+- Caution flag: cheap subscription boxes are eroding margins industry-wide (Coffee Intelligence, 10/15) even as roasters keep offering them for acquisition — don't race to the bottom on recurring bundle pricing.
+- Slower-moving background signals worth tracking but not acting on yet: $8M federally funded coffee/cacao research lab (climate resilience, 10/16) and matcha/customized-drink pricing power at specialty shops (10/13).
+
 ## 2026-10-17
 
 ### Competitors
