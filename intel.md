@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-19
+
+### Competitors
+- Sustainability-meets-premium is the current gear-social thread: a plastic-free AeroPress and a waste-free Lavazza pod machine are trending alongside new premium compact entrants (ROWAN's Nova Reverie, Star Glory's Elle Home at IFA 2026) — eco claims now sit next to premiumization claims in buyer chatter.
+
+### Content Angles
+- Black Friday lead time is now — a "Holiday Dial-In Bundle" (machine + tamper + puck screen) with early VIP email access builds scarcity and lifts AOV before the rush; pairs well with the gift-guide push flagged last week.
+
+### Product Opportunities
+- Perfect Daily Grind's piece on micro-lot sample packaging (high-barrier mini bags protecting aroma/moisture in transit) is a reminder that packaging quality signals premium-ness to buyers — worth checking whether Dialed's own shipping/packaging communicates the same care, not just green coffee.
+
 ## 2026-10-18
 
 ### Competitors
