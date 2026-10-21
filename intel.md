@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-21
+
+### Competitors
+- FT's "The espresso pot test of Italian capitalism" — using moka-pot/bar espresso prices as an informal economic barometer for Italy, in the same spirit as the Big Mac Index; a reminder that everyday coffee pricing doubles as a macro signal worth tracking.
+
+### Content Angles
+- Black Friday deal-roundup coverage is already running industry-wide (Mashable's kitchen-deals piece, Oct 21) — a full five weeks before the holiday, confirming the gift-guide/holiday-prep window flagged last week is tightening fast.
+
+### Product Opportunities
+- Publish a "Dialed 2026 Gift Guide" landing page now, before big retailers escalate PPC spend, to capture long-tail gift-guide SEO early; swap in live bundle pricing as Black Friday nears.
+
 ## 2026-10-20
 
 ### Competitors
