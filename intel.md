@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-22
+
+### Competitors
+- No notable competitor-specific intel today.
+
+### Content Angles
+- Home-espresso forums are re-litigating grind consistency: Perfect Daily Grind's new piece argues slow feed rate during grinding — not grind speed — may be the bigger lever for consistent shots, prompting grinder owners to retest technique over gear upgrades.
+- Specialty coffee is reshaping India's coffee-growing economy (new trade coverage) — quality standards, direct trade, and grower career paths are rising alongside raw export volume; a reminder that sourcing-story content resonates beyond just the gear side.
+
+### Product Opportunities
+- Film a quick "feed rate" demo on one of Dialed's own grinders riding the slow-feed debate — cheap, timely content that positions Dialed as technically credible rather than just a retailer.
+
 ## 2026-10-21
 
 ### Competitors
