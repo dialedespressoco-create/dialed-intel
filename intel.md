@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-23
+
+### Competitors
+- Prosumer tier keeps mainstreaming: enthusiasts who learned on a Gaggia/Breville are now moving up to genuine E61/rotary-pump machines (Rocket/ECM/Profitec) as a deliberate second purchase — same upgrade pipeline flagged 10/06, now framed as a broader 2026 trend piece, not just forum chatter.
+
+### Content Angles
+- "Data-driven dial-in" is becoming standard, not niche — smart scales and shot-logging apps are increasingly default kit for anyone serious about consistency (2026 gear-trend roundup). Pairs well with a scale/logging-app bundle post.
+- New Royal Society Open Science research built the first real physics model predicting espresso puck permeability from grind size — turns flow-rate dial-in from trial-and-error into something calculable; solid "science behind your shot" content hook.
+
+### Product Opportunities
+- Run paid "content-only" UGC deals: pay real customers/micro-creators $75-600 for raw unboxing/review videos, no posting required, Dialed keeps usage rights 6-12mo for ads/product pages — cheaper and more trusted than polished ad creative, and builds on the "show us your setup" UGC thread already flagged 10/09 and 10/16.
+
 ## 2026-10-22
 
 ### Competitors
