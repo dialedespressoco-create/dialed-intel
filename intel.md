@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-24
+
+### Competitors
+- De'Longhi upped its stake in professional-division parent DLI Limited (home to La Marzocco and Eversys) from 61.56% to 88.02%, paying ~€662.5m and valuing the division at €2.36bn — continued consolidation of premium/prosumer-adjacent espresso hardware under one owner.
+
+### Content Angles
+- r/espresso's top post this week is a viral rant on "upgrade culture" — users chasing $1k+ grinders for marginal gains while admitting they likely couldn't tell the difference in a blind taste test. Real community fatigue with gear-chasing right now; good hook for honest, non-salesy gear content.
+- Arabica futures (Dec ICE contract) hit their highest level since late Aug on low NY certified stocks (lowest since 1999) and El Niño concerns; green coffee costs staying high/unpredictable even as premium machine demand keeps rising (PDG Friday recap, 23 Oct).
+
+### Product Opportunities
+- Publish a "stop upgrading, start dialing in" piece: side-by-side budget vs premium setup, same beans, blind taste poll. Rides the r/espresso upgrade-fatigue sentiment and positions Dialed as the honest advisor rather than another gear-pusher.
+
 ## 2026-10-23
 
 ### Competitors
