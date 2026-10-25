@@ -2,6 +2,22 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-25 (Weekly Summary)
+
+### Competitors
+- Consolidation at the top keeps accelerating: De'Longhi raised its stake in DLI Limited (La Marzocco/Eversys parent) from 61.56% to 88.02% for ~€662.5m, valuing the division at €2.36bn — premium/prosumer hardware is increasingly owned by a handful of conglomerates.
+- The entry-to-prosumer upgrade pipeline (Gaggia/Breville buyers moving up to Rocket/ECM/Profitec) is now a named 2026 trend piece, not just forum chatter (10/23) — but it's colliding with a real backlash: r/espresso's top post this week (10/24) is a viral rant on "upgrade culture," with users admitting they likely couldn't tell the difference in a blind taste test.
+
+### Content Angles
+- The holiday window is closing fast: gift-guide roundups and Black Friday deal coverage are already running industry-wide a full five weeks early (10/21), confirming last week's flagged urgency — a dedicated "Dialed 2026 Gift Guide" landing page should be live now, not later.
+- Counter-programming opportunity: gear-chasing fatigue is loud and real (10/24 r/espresso rant) alongside renewed "it's technique, not gear" sentiment (10/22 feed-rate debate) — honest, blind-taste/side-by-side content ("stop upgrading, start dialing in") should outperform another gear-push post right now.
+- Scales, step-down baskets, and minimalist "soup shot" dosing keep resurfacing across TikTok/forums (10/18, 10/20) — short demo/explainer content on gear Dialed already carries is cheap, timely, and on-trend.
+
+### Product Opportunities
+- Precision dial-in tools (scales, step-down baskets, puck-prep/WDT, ceramic portafilters) remain the single clearest recurring SKU theme of the month — four separate signals in one week alone (10/18, 10/20, 10/22, 10/23) point to a real sourcing evaluation, not just more blog content.
+- Paid content-only UGC deals ($75-600 for raw video, no posting required, 6-12mo usage rights) are emerging as a cheaper, more trusted alternative to polished ad creative (10/23) — worth testing against Dialed's existing "show us your setup" UGC thread.
+- Watch input costs: arabica futures hit their highest level since late August on low NY certified stocks and El Niño concerns (10/24) — green-bean cost pressure is building even as premium machine demand stays strong.
+
 ## 2026-10-24
 
 ### Competitors
