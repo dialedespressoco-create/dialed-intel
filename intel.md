@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-25 (Daily Digest)
+
+### Competitors
+- De'Longhi's stake increase in DLI Limited (La Marzocco/Eversys parent) to 88% (~€2.36bn valuation) remains the gear-ownership story espresso forums keep returning to.
+
+### Content Angles
+- Arabica futures hit a 2-month high this week (El Niño fears, NY certified stocks lowest since 1999) — strong hook for a "lock in your price" pre-sale or subscription push before supplier costs force a bump.
+
+### Product Opportunities
+- No new SKU signal beyond the standing precision dial-in theme — keep watching margins as green coffee costs climb industry-wide.
+
 ## 2026-10-25 (Weekly Summary)
 
 ### Competitors
