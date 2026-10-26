@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-26
+
+### Competitors
+- "Meraki" launched a new smart ritual-tracking espresso device (stupidDOPE, Oct 26) pushing data-logged, repeatable shots as the sell — the "smart/connected gear" wave flagged earlier this month keeps gaining real product entrants, not just concept coverage.
+
+### Content Angles
+- Small-business marketing coverage this week (Business.com, Hagadone) is leaning hard on "neighborhood connections" as the differentiator over paid reach — fits a weekly IG Stories repost of customer dial-in settings (grind size, shot time) under one hashtag: free social proof + community, zero ad spend.
+
+### Product Opportunities
+- Sprudge's "Cornucopia of Coffee Gear" roundup (Oct 10) is a reminder to keep a standing 2-min competitor-gear scan in the weekly routine — new releases keep surfacing faster than the monthly trend pieces capture.
+
 ## 2026-10-25 (Daily Digest)
 
 ### Competitors
