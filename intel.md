@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-27
+
+### Competitors
+- "Best espresso machine" roundup coverage is dominating gear search this week across Forbes, Food & Wine, Serious Eats, Bon Appétit, and AOL simultaneously — De'Longhi's new all-in-one combo unit (grinder+machine) is getting a fresh wave of hands-on press (NY Post), reinforcing the combo-unit push flagged in past weeks.
+
+### Content Angles
+- "Espresso bomb" / espresso-lemonade and OJ-espresso drinks (first flagged 10/15) are still going viral on TikTok nearly two weeks later, with major outlets (HuffPost, BuzzFeed, Delish, Parade) still chasing the trend — this has real shelf life, not a one-week spike; a "make the viral espresso lemonade at home" recipe post tied to Dialed gear is still a live opportunity.
+
+### Product Opportunities
+- SCA's "Why Does Milk Foam?" explainer breaks down the milk protein/fat chemistry behind good microfoam — a science-backed hook for bundling/upselling milk pitchers, thermometers, or steam-wand accessories around a "better latte art" angle.
+
 ## 2026-10-26
 
 ### Competitors
