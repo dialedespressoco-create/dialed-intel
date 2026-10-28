@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-28
+
+### Competitors
+- Compact, design-forward espresso machines are the gear-press theme this week — CNET covered a jet-engine-styled machine the size of a moka pot, alongside fresh hands-on reviews of De'Longhi's All-in-One and Magnifica Start (NY Post, TechRadar, Oct 27) — "small footprint, big design" is overtaking raw spec chasing in gear coverage.
+
+### Content Angles
+- Build a "small-space setup" bundle/landing page (compact machine + grinder + minimal accessories) targeted at apartment/dorm buyers — rides this week's compact-gear press wave without new SKUs, just a themed collection + email push.
+
+### Product Opportunities
+- Worth a quick eval of whether Dialed should carry one true ultra-compact machine SKU — press interest in jet-engine/moka-pot-sized units suggests real buyer demand for small-footprint gear, not just novelty coverage.
+
 ## 2026-10-27
 
 ### Competitors
