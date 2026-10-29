@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-29
+
+### Competitors
+- Home-espresso gear socials are deep in holiday gift-guide mode — Sprudge's new gear roundup and r/espresso threads are spotlighting accessories (WDT tools, bottomless portafilters, puck screens) over machines as the current hot buys.
+
+### Content Angles
+- Bundle a WDT tool + puck screen + bottomless portafilter into a "Dial It In" holiday starter kit with a short demo reel — rides the same gift-guide search wave at low extra cost, lifts AOV.
+
+### Product Opportunities
+- EU's deforestation law (EUDR) just pulled soluble/instant coffee into scope — tightening traceability rules industry-wide could squeeze green-coffee sourcing/pricing into 2027; worth monitoring supplier pass-through costs.
+
 ## 2026-10-28
 
 ### Competitors
@@ -320,13 +331,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 ### Product Opportunities
 - Tipping fatigue is spreading from restaurants into coffee shops (per Perfect Daily Grind), frustrating customers and squeezing barista pay. A clear no-tip-prompt checkout could be a quiet differentiator for a DTC gear brand.
 
-## 2026-09-29
-
-### Competitors
-- Pipeline setup entry — live web research tools were unavailable at setup time, so no findings yet. First real competitor scan lands with tonight's 7:00 PM ET digest.
-
-### Content Angles
-- Pipeline setup entry — no findings yet.
-
-### Product Opportunities
-- Pipeline setup entry — no findings yet.
