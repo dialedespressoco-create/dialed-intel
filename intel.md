@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-30
+
+### Competitors
+- La Marzocco and Porsche just launched a co-branded "911 Carrera RS 2.7" espresso machine collection — luxury-brand crossovers are the talk of home-espresso circles, reinforcing premium gear as lifestyle-object status symbol.
+
+### Content Angles
+- Early Black Friday coffee-gear deals (Nespresso and others) are already live — worth launching an early-bird Black Friday bundle/pre-sale for Dialed now, before bigger brands soak up all the holiday attention.
+
+### Product Opportunities
+- A viral story about a "smart" coffee machine burning through 1TB of data in 10 days is a reminder to keep any future connected/IoT Dialed hardware lean — don't let smart-appliance bloat become a support headache or trust issue.
+
 ## 2026-10-29
 
 ### Competitors
