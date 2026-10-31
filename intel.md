@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-10-31
+
+### Competitors
+- No major new competitor-gear launch surfaced today; holiday gift-guide and "best espresso machine" roundup coverage (flagged in recent days) remains the dominant press angle heading into November.
+
+### Content Angles
+- Budget flow-profiling kits and sub-$200 single-dose grinders (DF64/Kingrinder-style) are the espresso-social talking point right now, squeezing prosumer brands — "budget vs premium" naked-shot comparison videos are the hot content format; a Dialed version of this comparison could ride the wave.
+
+### Product Opportunities
+- A trade-in/upgrade-credit program (store credit for a customer's old machine/grinder toward a Dialed purchase) is worth evaluating — lifts cart size, builds loyalty, and is a lever Amazon resellers can't match.
+
 ## 2026-10-30
 
 ### Competitors
@@ -329,16 +340,4 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - "Coffee Community Census" (thecoffeeroundup.com) analyzed 772 Reddit threads across 115 subreddits to find what gear people genuinely recommend vs. affiliate-driven "best of" lists. Useful source for picking which SKUs to feature based on real community consensus rather than paid placement.
-
-## 2026-09-30
-
-### Competitors
-- Huracán Coffee (Lithuania) won World's Best Roaster at the 2025 Global Coffee Awards — their line: differentiation beats chasing international recognition. Worth noting how small independent roasters frame reputation-building.
-
-### Content Angles
-- National Coffee Day (Sep 29) triggered a wave of deal-hunting across espresso socials — Breville Bambino down to $249.95, De'Longhi Rivelia/Magnifica Duo at record lows, Ninja combos up to $150 off. Good moment for value/comparison content.
-- "Dupe culture" is trending — Food & Wine ran a "found a cheaper look-alike for the hyped coffee maker" piece. Angle: "get [popular pricey machine]'s shot for half the cost" comparison post/email.
-
-### Product Opportunities
-- Tipping fatigue is spreading from restaurants into coffee shops (per Perfect Daily Grind), frustrating customers and squeezing barista pay. A clear no-tip-prompt checkout could be a quiet differentiator for a DTC gear brand.
 
