@@ -2,6 +2,23 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-01 (Weekly Summary)
+
+### Competitors
+- Premiumization is leaning hard into lifestyle/status territory: La Marzocco x Porsche's "911 Carrera RS 2.7" co-branded machine (10/30) and a wave of compact, design-forward entrants (jet-engine-styled mini machines, De'Longhi All-in-One/Magnifica Start reviews, 10/28) show gear brands competing on object-desirability as much as shot quality.
+- The smart/connected-gear wave picked up a real product entrant (Meraki's ritual-tracking device, 10/26) rather than just concept coverage, but a viral "smart machine burns 1TB of data in 10 days" story (10/30) is a live reminder that IoT bloat is a trust risk, not just a feature.
+- Holiday gift-guide coverage is now the dominant press mode industry-wide, crowding out standalone gear-launch stories through month-end (10/27, 10/31).
+
+### Content Angles
+- Budget-vs-premium "naked shot" comparison videos are this week's hottest content format — sub-$200 single-dose grinders (DF64/Kingrinder-style) and budget flow kits are squeezing prosumer brands in the conversation, and a Dialed take on this comparison would ride real search/social interest (10/31).
+- The viral espresso-lemonade trend (first flagged 10/15) is still getting fresh press nearly three weeks later — unusually long shelf life for a social trend, still worth a recipe/demo tie-in.
+- Science-backed hooks keep recurring as a credible, non-salesy content angle: SCA's milk-foam chemistry explainer (10/27) and a new puck-permeability physics model (10/23) both turn "trust me" gear claims into teachable, shareable content.
+
+### Product Opportunities
+- A trade-in/upgrade-credit program (store credit for a customer's old machine/grinder toward a Dialed purchase) is this week's clearest new SKU-adjacent idea — lifts cart size, builds loyalty, and is a lever big marketplaces can't easily match (10/31).
+- EU's deforestation law (EUDR) pulling soluble/instant coffee into scope (10/29) signals tightening green-coffee traceability rules industry-wide — worth quietly tracking supplier pass-through costs heading into 2027 rather than acting now.
+- Holiday-bundle execution (WDT tool + puck screen + bottomless portafilter "Dial It In" kit, 10/29) remains the lowest-effort near-term move — low-cost dressing on existing SKUs that rides the gift-guide wave already dominating press.
+
 ## 2026-10-31
 
 ### Competitors
