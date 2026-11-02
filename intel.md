@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-02 (Daily Digest)
+
+### Competitors
+- Sprudge's "Coffee Gear That's Scary Good" roundup (Oct 30) confirms seasonal/gift-guide gear coverage still dominates home-espresso press heading into November, with no sign of easing.
+
+### Content Angles
+- TikTok Shop reported US small-business sales climbed 66% in 2025 (Modern Retail) — worth testing a few short UGC-style demo clips for Dialed; gear is visual/demo-friendly and this is a low-lift channel test.
+
+### Product Opportunities
+- Mago Maga's AI-assisted home roaster (Roma-X) landing on Kickstarter signals growing appetite for one-button/automated roasting profiles — a category shift worth tracking since it could pull attention from manual dial-in gear.
+
 ## 2026-11-01 (Weekly Summary)
 
 ### Competitors
