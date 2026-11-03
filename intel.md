@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-03 (Daily Digest)
+
+### Competitors
+- Perfect Daily Grind's new piece debates whether specialty coffee needs an "ultra-specialty" tier above today's mid-range (85-point) coffees, as rising green-coffee and operating costs squeeze margins — a sign the premiumization ladder keeps extending upward industry-wide.
+
+### Content Angles
+- r/espresso and coffee TikTok are deep in a flow/pressure-profiling debate again — budget machines (Flair, Gaggia, Breville mods) now market "pro" pressure-pulse features, and the community's split on real quality gain vs. marketing fluff; good myth-check content hook.
+
+### Product Opportunities
+- A cheap consumables subscription (descaling tabs, puck screens, filters) added at checkout is low-lift on Shopify, gives a monthly email touchpoint, and turns one-off gear sales into recurring revenue.
+
 ## 2026-11-02 (Daily Digest)
 
 ### Competitors
