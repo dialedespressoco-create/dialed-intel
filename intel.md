@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-04 (Daily Digest)
+
+### Competitors
+- Bodum recalled 5.9 million French presses (70 breakage + 48 burn reports across 52 years of sales); the remedy is a free replacement spoon rather than a refund — gear communities are already mocking the fix, a reminder to flag any recall affecting products Dialed stocks.
+
+### Content Angles
+- Starbucks is pulling back from some markets (Boston flagged this week), with indie cafes/brands absorbing the demand — a geo-targeted "skip the line, build your own bar at home" campaign near closing Starbucks locations could capture local search/social attention cheaply.
+
+### Product Opportunities
+- China's Pan Wei won the 2026 World Barista Championship (first Chinese champion) using two gesha coffees from Panama and Colombia — gesha/competition-lot coffee remains a premium-differentiator story worth a content tie-in if Dialed ever carries single-origin beans.
+
 ## 2026-11-03 (Daily Digest)
 
 ### Competitors
