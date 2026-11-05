@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-05 (Daily Digest)
+
+### Competitors
+- Sprudge's new Coffee Gear roundup is leaning into spill-proof + portable specs — BOOKOO's Themis Ultra (IP67 waterproof precision scale) and MHW-3BOMBER's X-Press58 (compact full-58mm portable espresso machine) are the gear getting attention right now, over raw spec chasing.
+
+### Content Angles
+- A "take your espresso anywhere" demo angle (travel/outdoor brew-off, spill-proof stress test) would ride this week's portability/ruggedness gear-press wave without needing new SKUs.
+
+### Product Opportunities
+- Add a $9-12 one-click post-purchase "first descale/clean kit" tied to the exact machine a customer just bought — low-effort upsell, pure margin, and fewer early support tickets.
+
 ## 2026-11-04 (Daily Digest)
 
 ### Competitors
