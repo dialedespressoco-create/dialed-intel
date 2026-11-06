@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-06 (Daily Digest)
+
+### Competitors
+- Meraki's Gen 2 home espresso machine (via Perfect Daily Grind, Nov 2026) is driving "best of both worlds" coverage — pro-grade specs (dual boilers, PID) paired with built-in guidance for beginners — as US specialty coffee hits new highs per NCA's Fall 2026 National Coffee Data Trends report (record 47% of adults had an espresso-based drink in the past week, 83% drink coffee at home).
+
+### Content Angles
+- Gear forums are debating whether automated guidance kills the "dial it in yourself" ritual purists love — a "Dialed"-branded video series (one grind/dose tweak, one visible before/after shot) rides this exact conversation and doubles as cheap, repeatable short-form content.
+
+### Product Opportunities
+- Worth testing a free printed/QR "starter dial-in card" bundled with each machine sold — a low-cost, non-smart analog to the guided-automation feature competitors (Meraki) are charging a premium for.
+
 ## 2026-11-05 (Daily Digest)
 
 ### Competitors
@@ -390,15 +401,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Perfect Daily Grind: coffee tariff refunds aren't straightforward — independent green-coffee importers are fronting refund money to roasters with no clear repayment timeline, exposing how exposed small supply-chain players are to tariff volatility (perfectdailygrind.com). Worth monitoring for sourcing/pricing risk.
-
-## 2026-10-06
-
-### Competitors
-- Prosumer home brands (Rocket, ECM, Profitec) are expanding home-tier lines as a second wave of buyers upgrades from entry machines (Gaggia Classic Pro, Breville) into genuine E61/rotary-pump territory — the "entry-to-prosumer" upgrade pipeline is worth tracking against Dialed's own tiering.
-
-### Content Angles
-- Manual lever revival: spring-lever machines (Flair 58 and similar) are resurging among enthusiasts wanting a tactile, skill-based shot — a real counter-trend to increasing automation elsewhere in the category. Good hook: a "why go manual" video/post tied to lever gear carried.
-
-### Product Opportunities
-- "Coffee Community Census" (thecoffeeroundup.com) analyzed 772 Reddit threads across 115 subreddits to find what gear people genuinely recommend vs. affiliate-driven "best of" lists. Useful source for picking which SKUs to feature based on real community consensus rather than paid placement.
-
