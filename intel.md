@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-07 (Daily Digest)
+
+### Competitors
+- Luckin Coffee hit 38,909 stores in Q3 (vs Starbucks' 41,607) and could overtake it as the world's largest chain by outlets in early 2027, even as same-store sales fell 11% — signals the market tilting toward smaller, app-ordered, no-frills formats over the traditional café experience. Separately, Kraft Heinz is selling its North American coffee division (Maxwell House, Gevalia, Tassimo) for $650M, a sign legacy mass-market coffee brands are being offloaded rather than invested in.
+
+### Content Angles
+- "Smart brewing" (app-connected flow/pressure profiling data) is now a mainstream gear-buying factor, not just DE1-nerd territory — pairs well with a short "math of home espresso" reel (payback period vs. a daily $6-7 chain latte), which lands harder right now given reported chain price/format pressure.
+
+### Product Opportunities
+- Robusta futures fell to their lowest level since March 2024, and Icafe forecasts a 9.7M-bag global surplus for 2026/27 (first surplus run after four deficit years) — easing input-cost pressure after months of rising-cost flags; could be a good window to lock in bean sourcing or test a bean subscription without the margin squeeze flagged in past entries.
+
 ## 2026-11-06 (Daily Digest)
 
 ### Competitors
@@ -391,13 +402,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 ### Product Opportunities
 - Perfect Daily Grind: debate is heating up over whether coffee producers can "own" a processing method — as novel fermentation techniques spread, growers are testing IP claims the way varieties once were. Worth watching for future sourcing/content angles tied to exclusive-process coffees.
 
-## 2026-10-07
-
-### Competitors
-- Imported prosumer espresso brands (ECM, Profitec, Rocket) are the subject of home-espresso social chatter over tariff-driven price hikes — shoppers reportedly rushing to buy before increases land on current inventory.
-
-### Content Angles
-- "Lock in today's price" urgency email/SMS campaign on in-stock imported gear, framed as last-chance-before-tariff-hike — low-cost, no-discount urgency play Dialed could run immediately.
-
-### Product Opportunities
-- Perfect Daily Grind: coffee tariff refunds aren't straightforward — independent green-coffee importers are fronting refund money to roasters with no clear repayment timeline, exposing how exposed small supply-chain players are to tariff volatility (perfectdailygrind.com). Worth monitoring for sourcing/pricing risk.
