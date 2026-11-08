@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-08 (Daily Digest)
+
+### Competitors
+- Entry-level gear brands are piling into home espresso as specialty coffee consumption hits record highs: SharkNinja launched a limited-edition Ninja Luxe Café Pro (Jonathan Adler design collab) and ecozy announced the budget 2-in-1 Brezzano Switch, both pitched squarely at beginners rather than prosumers.
+
+### Content Angles
+- The new entry-level launches are reviving an "automation vs. prosumer ritual" debate in gear communities — good hook for a "what you actually lose/gain with a guided machine" comparison piece tied to Dialed's own lineup.
+- TikTok's 2026 trend forecast names three themes worth testing in social tone: "Reali-Tea" (unpolished authenticity), "Curiosity Detours" (letting content wander off-topic), and "Emotional ROI" (value framed as feeling, not just price) — could reshape how Dialed scripts short-form content.
+
+### Product Opportunities
+- Gen Z "little treats" spending culture (impulse $5-7 purchases, brands building entire drink/flavor menus around it per TikTok Shop data) suggests a limited monthly "Treat Drop" bundle (flavored shot/syrup + small merch item) could capture low-friction, recurring impulse purchases outside core gear sales.
+
 ## 2026-11-07 (Daily Digest)
 
 ### Competitors
@@ -390,15 +402,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Perfect Daily Grind (Oct 9): arabica prices broke back above US$3/lb for the first time since early September as the Brazilian real strengthens — worth watching for green-bean cost pressure. Separately, Costa Coffee returned to profitability leaning on matcha and iced drinks, a signal that non-espresso/cold formats are carrying growth for chains right now.
-
-## 2026-10-08
-
-### Competitors
-- Single-dose conical-burr grinders remain the dominant home-espresso gear topic on review sites and forums — CoffeeGeek's latest single-doser review (scored 78) continues a wave of comparisons as buyers favor retention-free dosing over flat-bed/hopper debates.
-
-### Content Angles
-- "Dial-in diary" post-purchase email flow: day 1 setup tips, day 3 troubleshooting sour/bitter shots, day 7 review request + bean restock discount. Cuts support tickets, builds trust, nudges repeat bean orders — low-cost automation Dialed could run today.
-
-### Product Opportunities
-- Perfect Daily Grind: debate is heating up over whether coffee producers can "own" a processing method — as novel fermentation techniques spread, growers are testing IP claims the way varieties once were. Worth watching for future sourcing/content angles tied to exclusive-process coffees.
-
