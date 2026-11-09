@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-09 (Daily Digest)
+
+### Competitors
+- No major competitor moves surfaced today; budget single-dose grinder clones (DF64/Niche-style) keep dominating entry-level "what to upgrade first" conversations in home espresso communities.
+
+### Content Angles
+- A short 15-30s "dial-in" video series (real shot pulls + a simple grind-size chart) doubles as an email-signup lead magnet and reusable SEO/social content — cheap to produce.
+- Smart-gear privacy angle: a viral story about a "smart" coffee machine burning 1TB of data in 10 days (HN, 962 pts) is a good hook for a "why Dialed gear doesn't phone home" trust post.
+
+### Product Opportunities
+- Budget single-dose grinder + flow-profiling lever machine is solidifying as the default "serious beginner" setup — worth tracking for a possible starter-kit bundle.
+
 ## 2026-11-08 (Daily Digest)
 
 ### Competitors
@@ -408,14 +420,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Constant daily demand on r/espresso for "$300-500 full setup" picks (machine+grinder+accessories). Fixed starter bundles by price tier with a simple picker tool would meet this exact, recurring ask and should reduce decision-paralysis drop-off.
-
-## 2026-10-09
-
-### Competitors
-- Home espresso/brewing gear is the fastest-growing coffee category by search (~$6B market, ~8.5% CAGR, outpacing drive-thru and global-origin segments). Breville Barista Express searches are climbing again alongside broader "coffee machine" search volume (+22% YoY) — entry-to-prosumer upgrade demand still strong.
-
-### Content Angles
-- "Build your coffee bar" UGC push: ask customers to post their Dialed setup for a discount code or feature. Rides the at-home-coffee-bar aesthetic trend hot on social right now, costs nothing to run, and generates reusable content for ads/email.
-
-### Product Opportunities
-- Perfect Daily Grind (Oct 9): arabica prices broke back above US$3/lb for the first time since early September as the Brazilian real strengthens — worth watching for green-bean cost pressure. Separately, Costa Coffee returned to profitability leaning on matcha and iced drinks, a signal that non-espresso/cold formats are carrying growth for chains right now.
