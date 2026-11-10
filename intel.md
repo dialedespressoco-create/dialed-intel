@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-10 (Daily Digest)
+
+### Competitors
+- No major competitor-specific gear launches surfaced today.
+
+### Content Angles
+- Perfect Daily Grind flags Spain as one of Europe's fastest-growing specialty coffee markets — cheap costs plus strong café/bar culture are driving quick growth, though converting price-sensitive locals to specialty pricing is the open challenge; a useful parallel for a "quality vs. affordability" post on Dialed's own value positioning.
+- Shopify is pushing "agentic commerce" hard — AI shopping agents (ChatGPT, Google AI Mode, Copilot) now browse and buy on customers' behalf. Worth auditing Dialed's product titles/descriptions/structured data now so AI agents surface the right gear instead of competitors'.
+
+### Product Opportunities
+- No new SKU-specific signal today; keep tracking AI-agent shopping integration as an emerging distribution channel, not just a content angle.
+
 ## 2026-11-09 (Daily Digest)
 
 ### Competitors
@@ -409,14 +421,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 - Fixed-price-tier starter bundles ($300-500 full setup) are a constant, recurring ask on r/espresso — a simple bundle picker tool would meet real demand instead of making people assemble their own kit.
 - Yeti's French-press redesign (fixing one specific morning annoyance) got real press traction this week — single clear-pain-point accessory redesigns are outearning big machine launches for coverage right now.
 - Green-bean cost pressure (arabica back above $3/lb) plus growing processing-method IP disputes are both worth watching for sourcing risk and future "transparent sourcing" content.
-
-## 2026-10-10
-
-### Competitors
-- Zuriga T2 hands-on impressions surfaced from a Berlin pop-up: built-in scale, five flow/pressure-profiled auto recipes, great build quality — but no custom profiling and ~2028 delivery lead times. A prosumer entrant worth tracking even if it's not shipping soon.
-
-### Content Angles
-- r/espresso's puck-prep debate flared up today — multiple top posts claim skipping WDT (plain grinder-cup shake + tamper-as-distributor, or a "blind shaker") gets zero channeling, same as the ritual tool. Good myth-check video/post hook; avoid over-prescribing WDT in buying guides until this settles.
-
-### Product Opportunities
-- Constant daily demand on r/espresso for "$300-500 full setup" picks (machine+grinder+accessories). Fixed starter bundles by price tier with a simple picker tool would meet this exact, recurring ask and should reduce decision-paralysis drop-off.
