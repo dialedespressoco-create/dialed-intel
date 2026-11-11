@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-11 (Daily Digest)
+
+### Competitors
+- Breville's new Barista Express Neo (grind-by-weight dosing, "Smooth Shot" auto-recovery for too-fast pulls) is picking up genuine "better than the OG" reviews on r/espresso — a real upgrade move in the entry-tier machine Dialed customers already own or consider.
+
+### Content Angles
+- "Turbo shots" (fast, high-ratio ~1:3 pulls on light roasts, 12-15s) are a live r/espresso discussion right now, with a regular asking why they aren't more mainstream — good myth-check/demo content hook on taste vs. consistency tradeoffs.
+- Perfect Daily Grind: bold, textured, maximalist packaging is overtaking the plain minimalist kraft bag for 2027, since Gen Z buyers photograph and share standout packaging — worth a look at whether Dialed's own package design pulls its weight as free marketing.
+
+### Product Opportunities
+- Recurring beginner pattern on r/espresso: "what accessories do I need?" right after buying an entry machine (Bambino/Barista Express). A tiered accessory starter bundle (WDT tool, basket, tamper, scale) keyed to those exact models is a low-lift, high-intent upsell.
+
 ## 2026-11-10 (Daily Digest)
 
 ### Competitors
@@ -395,29 +407,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 ### Product Opportunities
 - Perfect Daily Grind (Oct 2026): coffee ecommerce buyers increasingly expect roast-date freshness and farm/origin traceability before ordering, not just low price — a differentiator Dialed could lean into on product pages/emails.
 
-## 2026-10-11
-
-### Competitors
-- "Flow profiling" is the hot feature trend in home espresso gear right now — Fellow's Series 1 and modded Breville/Gaggia builds are dominating r/espresso buying-advice threads as buyers chase pressure/flow control once locked to commercial machines.
-
-### Content Angles
-- Short "shot comparison" reels (flow-profiled pull vs. standard pull) shot on Dialed's own gear double as product demo content and naturally upsell precision baskets/bottomless portafilters — cheap to produce, rides a trend that's already driving buying-advice traffic.
-
-### Product Opportunities
-- NYC's "Click to Cancel" rule is now enforced, requiring one-click subscription cancellation — worth tracking since similar rules are spreading state by state; relevant if Dialed ever adds a subscription/membership tier.
-
-## 2026-10-11 (Weekly Summary)
-
-### Competitors
-- Prime Day / Big Deal Days dominated the week's espresso coverage — Breville, De'Longhi, and Ninja all leaned hard into deal-and-bundle messaging. De'Longhi specifically pushed combo units (built-in grinder + cold brew) as its differentiator over single-function machines.
-- Prosumer imports (Rocket, ECM, Profitec, Zuriga) stayed in the conversation all week — tariff-driven urgency buying early on, then a hands-on on the Zuriga T2 (built-in scale, auto profiles, ~2028 delivery) mid-week. The entry-to-prosumer upgrade pipeline is the throughline connecting both stories.
-
-### Content Angles
-- Comparison/"best-of" format is winning everywhere right now — 60-machine shootouts, scale buying guides, "3 best X" roundups. Matching that format (not just single-SKU pages) likely earns more search traffic than product pages alone.
-- "At-home coffee bar" aesthetic + holiday gift-guide coverage is ramping up — good moment to start seasonal gifting content now instead of waiting for December.
-- The puck-prep myth-check (WDT vs. no-WDT) is an active, unresolved r/espresso debate — safe content hook, but hold off treating WDT as gospel in buying guides until it settles.
-
-### Product Opportunities
-- Fixed-price-tier starter bundles ($300-500 full setup) are a constant, recurring ask on r/espresso — a simple bundle picker tool would meet real demand instead of making people assemble their own kit.
-- Yeti's French-press redesign (fixing one specific morning annoyance) got real press traction this week — single clear-pain-point accessory redesigns are outearning big machine launches for coverage right now.
-- Green-bean cost pressure (arabica back above $3/lb) plus growing processing-method IP disputes are both worth watching for sourcing risk and future "transparent sourcing" content.
