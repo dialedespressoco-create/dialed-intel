@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-12 (Daily Digest)
+
+### Competitors
+- WIRED and Bon Appétit both published fresh espresso-machine buying/deal guides this week (Nov 2, Oct 28) — confirms the Black Friday gift-guide wave flagged in recent weeks is now fully saturating gear media, two-plus weeks before the holiday itself.
+
+### Content Angles
+- The Guardian: UK cafes are hiking flat-white prices (up to £6.50) as dairy and wage costs squeeze margins — a real-world example of how a competitor justifies a price increase to customers, useful reference if Dialed ever needs similar messaging.
+
+### Product Opportunities
+- With gift-guide season already peaking, a VIP early-access email/SMS signup for Dialed's own Black Friday bundle (early pricing peek + referral bonus) could capture buying intent now rather than waiting for the public drop — builds urgency without a sitewide markdown.
+
 ## 2026-11-11 (Daily Digest)
 
 ### Competitors
@@ -395,15 +406,4 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Perfect Daily Grind (Oct 2026): matcha and customized drinks are helping specialty shops raise prices without alienating regulars — a pricing-power lever Dialed could study for bundles/add-ons beyond straight espresso gear.
-
-## 2026-10-12
-
-### Competitors
-- r/espresso's recurring consensus (via JamesHoffmann-community buying guides): upgrade the grinder before the machine. Niche Zero is called the "workflow champ," Encore the reliable entry pick, and grinder spend shows diminishing returns past ~$500 — machine choice matters less than buyers assume.
-
-### Content Angles
-- Ride that exact debate: a short "grinder vs. machine — what actually improves your shot" post/email, paired with a grinder+machine starter bundle. Cheap content that taps a conversation shoppers are already having, with a built-in upsell path.
-
-### Product Opportunities
-- Perfect Daily Grind (Oct 2026): coffee ecommerce buyers increasingly expect roast-date freshness and farm/origin traceability before ordering, not just low price — a differentiator Dialed could lean into on product pages/emails.
 
