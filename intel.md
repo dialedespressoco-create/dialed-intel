@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-13 (Daily Digest)
+
+### Competitors
+- No major competitor-specific gear launches surfaced today.
+
+### Content Angles
+- Perfect Daily Grind: prosumer espresso machines are closing the gap to café-level shot quality, and home baristas increasingly expect commercial performance from compact kitchen machines — a "café vs. home shot" comparison reel/post for Dialed, ending in a "which machine fits your bar?" quiz, rides this exact conversation and doubles as an email-capture lead magnet.
+
+### Product Opportunities
+- No specific SKU/bundle signal today; keep tracking the prosumer-performance trend above for a possible "café-grade at home" positioning angle on existing machine listings.
+
 ## 2026-11-12 (Daily Digest)
 
 ### Competitors
@@ -395,15 +406,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Newsweek covered a study where regular coffee drinkers quit for two weeks and saw one standout effect beyond expected withdrawal headaches — a solid consumer-education hook ("what actually happens when you quit coffee") that ties naturally into decaf/half-caf SKUs.
-
-## 2026-10-13
-
-### Competitors
-- Puck-prep is settling into a default, not just a debate anymore — r/espresso and coffee-gear threads now treat WDT tools + paper filters/puck screens as standard kit, with more chatter about dialing in extraction consistency than about machine upgrades.
-
-### Content Angles
-- Package a "First Perfect Shot Kit" (WDT tool + paper filter + basket) as a cheap checkout upsell — rides the puck-prep-as-default trend, boosts AOV, and markets itself with before/after extraction shot photos.
-
-### Product Opportunities
-- Perfect Daily Grind (Oct 2026): matcha and customized drinks are helping specialty shops raise prices without alienating regulars — a pricing-power lever Dialed could study for bundles/add-ons beyond straight espresso gear.
-
