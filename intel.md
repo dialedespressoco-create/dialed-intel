@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-14 (Daily Digest)
+
+### Competitors
+- No major competitor-specific gear launches surfaced today; broader gear press stayed focused on holiday buying guides (see below).
+
+### Content Angles
+- Seattle P-I published a fresh "espresso gear + beans" holiday gift guide (Nov 13), confirming the Black Friday gift-guide wave flagged in recent weeks is still building — expect r/espresso gear-comparison threads to keep spiking through the holiday.
+
+### Product Opportunities
+- Build a simple "Gifts for the Home Barista" bundle page (grinder+tamper+beans, 2-3 price tiers) now and pitch it to a couple of gift-guide writers before Black Friday — earned placement in these roundups tends to convert better than paid ads.
+- Forbes: "Why The $200B Coffee Industry Needs A Genetic Makeover" (Nov 9) — climate stress and disease are pushing growers to diversify coffee genetics beyond a handful of dominant cultivars to protect future supply; a longer-horizon sourcing watch item, not an immediate action.
+
 ## 2026-11-13 (Daily Digest)
 
 ### Competitors
@@ -395,14 +407,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Coffee Intelligence (Oct 2026): cheap subscription boxes are eroding margins industry-wide, yet roasters keep offering them for acquisition — Dialed should weigh subscription/bundle pricing carefully rather than racing to the bottom on recurring offers.
-
-## 2026-10-14
-
-### Competitors
-- Smart, app-connected espresso machines are the headline gear trend right now — a market report names "smart home integration" as programmable machines' key growth driver, and WIRED is still running "upgrade your coffee setup" content off the Prime Day halo. Buyers are shopping connectivity, not just shot quality.
-
-### Content Angles
-- Holiday gift-guide season is already live (Serious Eats published a 27-item coffee gift roundup). Pitch Dialed bundles to gift-guide writers now and spin up a dedicated "Gift Bundles" collection before most lists lock in mid-November.
-
-### Product Opportunities
-- Newsweek covered a study where regular coffee drinkers quit for two weeks and saw one standout effect beyond expected withdrawal headaches — a solid consumer-education hook ("what actually happens when you quit coffee") that ties naturally into decaf/half-caf SKUs.
