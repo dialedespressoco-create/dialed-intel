@@ -2,6 +2,23 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-15 (Weekly Summary)
+
+### Competitors
+- Entry-tier upgrade race kept accelerating: Breville's new Barista Express Neo (grind-by-weight dosing, "Smooth Shot" auto-recovery) is landing as a genuine feature upgrade with real "better than the OG" reviews on r/espresso (11/11) — not just marketing polish.
+- Gift-guide/Black Friday coverage fully saturated gear media this week, earlier and heavier than prior years: WIRED, Bon Appétit, Seattle P-I, and Sprudge all ran fresh buying/deal guides (11/9-11/14), two-plus weeks before the holiday itself.
+- Prosumer machines are closing the gap to café-level shot quality per Perfect Daily Grind (11/13) — home buyers increasingly expect commercial performance from compact kitchen machines, pressuring entry/mid-tier brands to keep adding "pro" features.
+
+### Content Angles
+- Three live threads worth riding now: a "café vs. home shot" comparison piece ending in a "which machine fits your bar?" quiz (lead-magnet-ready, from the prosumer-gap story); a "turbo shots" myth-check on fast high-ratio pulls, a genuine live r/espresso debate (11/11); and a packaging/shareability check — bold maximalist packaging is reportedly overtaking plain kraft bags with Gen Z buyers (Perfect Daily Grind, 11/11), worth auditing whether Dialed's own packaging pulls its weight as free marketing.
+- Bigger structural signal: Shopify is pushing "agentic commerce" hard, with AI shopping agents (ChatGPT, Google AI Mode, Copilot) now browsing and buying on customers' behalf (11/10) — this is a distribution-channel shift, not just a content angle; product titles/descriptions/structured data need auditing so AI agents surface Dialed's gear instead of competitors'.
+
+### Product Opportunities
+- Clearest near-term move: a tiered "Gifts for the Home Barista" bundle (grinder + tamper + beans, 2-3 price points) pitched directly to gift-guide writers before Black Friday (11/14) — earned placement in these roundups converts better than paid ads, and the pitch window is still open, not closing.
+- Pair that with a beginner accessory starter bundle (WDT tool, basket, tamper, scale) keyed to the exact entry machines (Bambino/Barista Express) buyers already own — a recurring r/espresso "what accessories do I need?" pattern makes this a low-lift, high-intent upsell (11/11).
+- A VIP early-access email/SMS signup for Dialed's own Black Friday bundle (11/12) can capture buying intent now, ahead of the public drop, without a sitewide markdown.
+- Longer-horizon watch item, not immediate action: Forbes on climate/disease pressure pushing coffee growers toward genetic diversification beyond today's dominant cultivars (11/9/11/14) — a sourcing-resilience story worth tracking into next year.
+
 ## 2026-11-15 (Daily Digest)
 
 ### Competitors
