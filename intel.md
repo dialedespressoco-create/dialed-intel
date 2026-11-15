@@ -2,6 +2,17 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-15 (Daily Digest)
+
+### Competitors
+- No new competitor-specific gear launches surfaced; gear press remains saturated with holiday buying guides (Sprudge posted another coffee-gear gift roundup Nov 13).
+
+### Content Angles
+- Tasting Table's "16 Biggest Coffee Trends Of 2026" roundup (Nov 9) is quick fodder for seasonal content angles beyond home espresso gear — worth a skim for post ideas.
+
+### Product Opportunities
+- Keep pushing the "Gifts for the Home Barista" bundle flagged Nov 14 — holiday gear-gift chatter is still building (not fading), so the earned-media pitch window to gift-guide writers stays open through Black Friday.
+
 ## 2026-11-14 (Daily Digest)
 
 ### Competitors
@@ -397,13 +408,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 ### Product Opportunities
 - Daily Coffee News (Oct 16): University of Hawaiʻi is leading a new $8M federally funded coffee & cacao research lab tackling leaf rust and climate resilience — signals growing institutional investment in coffee supply security, worth watching for future sourcing-story content.
 
-## 2026-10-15
-
-### Competitors
-- "Espresso lemonade" (iced shot + lemonade/tonic) is going viral on TikTok/IG, and r/espresso + home-barista threads are already recreating cafe versions at home — ratios and glassware are the current hot debate.
-
-### Content Angles
-- Ride the trend: a quick "make viral espresso lemonade at home" reel/recipe card using Dialed gear, tagged to the trend — cheap, timely, shareable content with a built-in gear tie-in.
-
-### Product Opportunities
-- Coffee Intelligence (Oct 2026): cheap subscription boxes are eroding margins industry-wide, yet roasters keep offering them for acquisition — Dialed should weigh subscription/bundle pricing carefully rather than racing to the bottom on recurring offers.
