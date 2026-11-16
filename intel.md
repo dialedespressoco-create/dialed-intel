@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+
+## 2026-11-16 (Daily Digest)
+
+### Competitors
+- Fellow's new Espresso Series 1 is pulling near-universal raves across gear media (Bon Appétit: "turns anyone into a coffee pro"; WIRED: "an actual game changer") right as Black Friday deals saturate feeds — it's become the default "upgrade now" conversation this week, continuing the entry/mid-tier upgrade pressure flagged in recent weeks.
+
+### Content Angles
+- Comunicaffe: Indonesia's 2026 Barista Champion used AI to help dial in his espresso recipe for competition — AI-assisted dial-in is creeping into serious barista workflows, a fresh angle for a "smart dial-in, no subscription" positioning post.
+
+### Product Opportunities
+- National Espresso Day (11/23) lands days before Black Friday — a short "Espresso Day" email/post teasing early access to Dialed's own BF bundle could land ahead of the broader promo-email flood and capture buying intent early.
+
 ## 2026-11-15 (Weekly Summary)
 
 ### Competitors
@@ -413,15 +425,4 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - 2026 gear-trend roundups flag "repairable, locally serviceable" equipment and ceramic portafilter adoption as rising buyer expectations — worth evaluating spare-parts/upgrade-kit SKUs (ceramic portafilters, serviceable baskets) for repeat-purchase margin.
-
-## 2026-10-16
-
-### Competitors
-- Inquirer (Oct 2026): mainstream press is now framing the "rise of the at-home barista" as a hobby/status move, not a budget workaround — premiumization in home espresso keeps getting validated outside gear-specific media.
-
-### Content Angles
-- Launch a "show us your setup" UGC campaign: customers tag their rig, best ones get featured on social/email with a small discount code for participants — cheap, on-brand, builds a real-customer content pipeline.
-
-### Product Opportunities
-- Daily Coffee News (Oct 16): University of Hawaiʻi is leading a new $8M federally funded coffee & cacao research lab tackling leaf rust and climate resilience — signals growing institutional investment in coffee supply security, worth watching for future sourcing-story content.
 
