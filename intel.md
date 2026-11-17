@@ -3,6 +3,17 @@
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
 
+## 2026-11-17 (Daily Digest)
+
+### Competitors
+- Decent Espresso released DE1 v1.46 — a new BengleWand steam-wand swap for older units plus lower UK/EU pricing; prosumer forums (r/espresso, home-barista) are already discussing the upgrade path.
+
+### Content Angles
+- Turn customer dial-in settings into content: a branded "Dial-In Spotlight" UGC series (customers post shot specs + a photo tagged @DialedEspressoCo) rides the same gear-nerd enthusiasm currently fueling DE1 wand-swap threads.
+
+### Product Opportunities
+- Pair the UGC series with a light incentive (feature + discount code) to seed submissions cheaply — a low-cost content pipeline that doubles as social proof, no new SKU required.
+
 ## 2026-11-16 (Daily Digest)
 
 ### Competitors
@@ -13,7 +24,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - National Espresso Day (11/23) lands days before Black Friday — a short "Espresso Day" email/post teasing early access to Dialed's own BF bundle could land ahead of the broader promo-email flood and capture buying intent early.
-
 ## 2026-11-15 (Weekly Summary)
 
 ### Competitors
@@ -30,7 +40,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 - Pair that with a beginner accessory starter bundle (WDT tool, basket, tamper, scale) keyed to the exact entry machines (Bambino/Barista Express) buyers already own — a recurring r/espresso "what accessories do I need?" pattern makes this a low-lift, high-intent upsell (11/11).
 - A VIP early-access email/SMS signup for Dialed's own Black Friday bundle (11/12) can capture buying intent now, ahead of the public drop, without a sitewide markdown.
 - Longer-horizon watch item, not immediate action: Forbes on climate/disease pressure pushing coffee growers toward genetic diversification beyond today's dominant cultivars (11/9/11/14) — a sourcing-resilience story worth tracking into next year.
-
 ## 2026-11-15 (Daily Digest)
 
 ### Competitors
@@ -41,7 +50,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Keep pushing the "Gifts for the Home Barista" bundle flagged Nov 14 — holiday gear-gift chatter is still building (not fading), so the earned-media pitch window to gift-guide writers stays open through Black Friday.
-
 ## 2026-11-14 (Daily Digest)
 
 ### Competitors
@@ -53,7 +61,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 ### Product Opportunities
 - Build a simple "Gifts for the Home Barista" bundle page (grinder+tamper+beans, 2-3 price tiers) now and pitch it to a couple of gift-guide writers before Black Friday — earned placement in these roundups tends to convert better than paid ads.
 - Forbes: "Why The $200B Coffee Industry Needs A Genetic Makeover" (Nov 9) — climate stress and disease are pushing growers to diversify coffee genetics beyond a handful of dominant cultivars to protect future supply; a longer-horizon sourcing watch item, not an immediate action.
-
 ## 2026-11-13 (Daily Digest)
 
 ### Competitors
@@ -64,7 +71,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - No specific SKU/bundle signal today; keep tracking the prosumer-performance trend above for a possible "café-grade at home" positioning angle on existing machine listings.
-
 ## 2026-11-12 (Daily Digest)
 
 ### Competitors
@@ -75,7 +81,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - With gift-guide season already peaking, a VIP early-access email/SMS signup for Dialed's own Black Friday bundle (early pricing peek + referral bonus) could capture buying intent now rather than waiting for the public drop — builds urgency without a sitewide markdown.
-
 ## 2026-11-11 (Daily Digest)
 
 ### Competitors
@@ -87,7 +92,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Recurring beginner pattern on r/espresso: "what accessories do I need?" right after buying an entry machine (Bambino/Barista Express). A tiered accessory starter bundle (WDT tool, basket, tamper, scale) keyed to those exact models is a low-lift, high-intent upsell.
-
 ## 2026-11-10 (Daily Digest)
 
 ### Competitors
@@ -99,7 +103,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - No new SKU-specific signal today; keep tracking AI-agent shopping integration as an emerging distribution channel, not just a content angle.
-
 ## 2026-11-09 (Daily Digest)
 
 ### Competitors
@@ -111,7 +114,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Budget single-dose grinder + flow-profiling lever machine is solidifying as the default "serious beginner" setup — worth tracking for a possible starter-kit bundle.
-
 ## 2026-11-08 (Daily Digest)
 
 ### Competitors
@@ -123,7 +125,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Gen Z "little treats" spending culture (impulse $5-7 purchases, brands building entire drink/flavor menus around it per TikTok Shop data) suggests a limited monthly "Treat Drop" bundle (flavored shot/syrup + small merch item) could capture low-friction, recurring impulse purchases outside core gear sales.
-
 ## 2026-11-08 (Weekly Summary)
 
 ### Competitors
@@ -140,7 +141,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 - Black Friday pricing is already live early (Breville, Ninja discounts spotted this week) — Dialed should have its own bundle pricing locked and teased now rather than waiting for the holiday itself.
 - Low-lift consumables/subscription plays (descaling tabs, puck screens, filters) and fixed-price starter bundles kept surfacing as the easiest near-term SKU-adjacent wins across multiple days this week.
 - A new market report flags portable/travel espresso as a 2035 growth category (premiumization + urban mobility) — paired with constant r/espresso demand for "$300-500 full setup" picks, a small portable/travel bundle pilot looks like a lower-competition line worth testing.
-
 ## 2026-11-07 (Daily Digest)
 
 ### Competitors
@@ -151,7 +151,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Robusta futures fell to their lowest level since March 2024, and Icafe forecasts a 9.7M-bag global surplus for 2026/27 (first surplus run after four deficit years) — easing input-cost pressure after months of rising-cost flags; could be a good window to lock in bean sourcing or test a bean subscription without the margin squeeze flagged in past entries.
-
 ## 2026-11-06 (Daily Digest)
 
 ### Competitors
@@ -162,7 +161,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Worth testing a free printed/QR "starter dial-in card" bundled with each machine sold — a low-cost, non-smart analog to the guided-automation feature competitors (Meraki) are charging a premium for.
-
 ## 2026-11-05 (Daily Digest)
 
 ### Competitors
@@ -173,7 +171,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Add a $9-12 one-click post-purchase "first descale/clean kit" tied to the exact machine a customer just bought — low-effort upsell, pure margin, and fewer early support tickets.
-
 ## 2026-11-04 (Daily Digest)
 
 ### Competitors
@@ -184,7 +181,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - China's Pan Wei won the 2026 World Barista Championship (first Chinese champion) using two gesha coffees from Panama and Colombia — gesha/competition-lot coffee remains a premium-differentiator story worth a content tie-in if Dialed ever carries single-origin beans.
-
 ## 2026-11-03 (Daily Digest)
 
 ### Competitors
@@ -195,7 +191,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - A cheap consumables subscription (descaling tabs, puck screens, filters) added at checkout is low-lift on Shopify, gives a monthly email touchpoint, and turns one-off gear sales into recurring revenue.
-
 ## 2026-11-02 (Daily Digest)
 
 ### Competitors
@@ -206,7 +201,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Mago Maga's AI-assisted home roaster (Roma-X) landing on Kickstarter signals growing appetite for one-button/automated roasting profiles — a category shift worth tracking since it could pull attention from manual dial-in gear.
-
 ## 2026-11-01 (Weekly Summary)
 
 ### Competitors
@@ -223,7 +217,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 - A trade-in/upgrade-credit program (store credit for a customer's old machine/grinder toward a Dialed purchase) is this week's clearest new SKU-adjacent idea — lifts cart size, builds loyalty, and is a lever big marketplaces can't easily match (10/31).
 - EU's deforestation law (EUDR) pulling soluble/instant coffee into scope (10/29) signals tightening green-coffee traceability rules industry-wide — worth quietly tracking supplier pass-through costs heading into 2027 rather than acting now.
 - Holiday-bundle execution (WDT tool + puck screen + bottomless portafilter "Dial It In" kit, 10/29) remains the lowest-effort near-term move — low-cost dressing on existing SKUs that rides the gift-guide wave already dominating press.
-
 ## 2026-10-31
 
 ### Competitors
@@ -234,7 +227,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - A trade-in/upgrade-credit program (store credit for a customer's old machine/grinder toward a Dialed purchase) is worth evaluating — lifts cart size, builds loyalty, and is a lever Amazon resellers can't match.
-
 ## 2026-10-30
 
 ### Competitors
@@ -245,7 +237,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - A viral story about a "smart" coffee machine burning through 1TB of data in 10 days is a reminder to keep any future connected/IoT Dialed hardware lean — don't let smart-appliance bloat become a support headache or trust issue.
-
 ## 2026-10-29
 
 ### Competitors
@@ -256,7 +247,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - EU's deforestation law (EUDR) just pulled soluble/instant coffee into scope — tightening traceability rules industry-wide could squeeze green-coffee sourcing/pricing into 2027; worth monitoring supplier pass-through costs.
-
 ## 2026-10-28
 
 ### Competitors
@@ -267,7 +257,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Worth a quick eval of whether Dialed should carry one true ultra-compact machine SKU — press interest in jet-engine/moka-pot-sized units suggests real buyer demand for small-footprint gear, not just novelty coverage.
-
 ## 2026-10-27
 
 ### Competitors
@@ -278,7 +267,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - SCA's "Why Does Milk Foam?" explainer breaks down the milk protein/fat chemistry behind good microfoam — a science-backed hook for bundling/upselling milk pitchers, thermometers, or steam-wand accessories around a "better latte art" angle.
-
 ## 2026-10-26
 
 ### Competitors
@@ -289,7 +277,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Sprudge's "Cornucopia of Coffee Gear" roundup (Oct 10) is a reminder to keep a standing 2-min competitor-gear scan in the weekly routine — new releases keep surfacing faster than the monthly trend pieces capture.
-
 ## 2026-10-25 (Daily Digest)
 
 ### Competitors
@@ -300,7 +287,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - No new SKU signal beyond the standing precision dial-in theme — keep watching margins as green coffee costs climb industry-wide.
-
 ## 2026-10-25 (Weekly Summary)
 
 ### Competitors
@@ -316,7 +302,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 - Precision dial-in tools (scales, step-down baskets, puck-prep/WDT, ceramic portafilters) remain the single clearest recurring SKU theme of the month — four separate signals in one week alone (10/18, 10/20, 10/22, 10/23) point to a real sourcing evaluation, not just more blog content.
 - Paid content-only UGC deals ($75-600 for raw video, no posting required, 6-12mo usage rights) are emerging as a cheaper, more trusted alternative to polished ad creative (10/23) — worth testing against Dialed's existing "show us your setup" UGC thread.
 - Watch input costs: arabica futures hit their highest level since late August on low NY certified stocks and El Niño concerns (10/24) — green-bean cost pressure is building even as premium machine demand stays strong.
-
 ## 2026-10-24
 
 ### Competitors
@@ -328,7 +313,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Publish a "stop upgrading, start dialing in" piece: side-by-side budget vs premium setup, same beans, blind taste poll. Rides the r/espresso upgrade-fatigue sentiment and positions Dialed as the honest advisor rather than another gear-pusher.
-
 ## 2026-10-23
 
 ### Competitors
@@ -340,7 +324,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Run paid "content-only" UGC deals: pay real customers/micro-creators $75-600 for raw unboxing/review videos, no posting required, Dialed keeps usage rights 6-12mo for ads/product pages — cheaper and more trusted than polished ad creative, and builds on the "show us your setup" UGC thread already flagged 10/09 and 10/16.
-
 ## 2026-10-22
 
 ### Competitors
@@ -352,7 +335,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Film a quick "feed rate" demo on one of Dialed's own grinders riding the slow-feed debate — cheap, timely content that positions Dialed as technically credible rather than just a retailer.
-
 ## 2026-10-21
 
 ### Competitors
@@ -363,7 +345,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Publish a "Dialed 2026 Gift Guide" landing page now, before big retailers escalate PPC spend, to capture long-tail gift-guide SEO early; swap in live bundle pricing as Black Friday nears.
-
 ## 2026-10-20
 
 ### Competitors
@@ -375,7 +356,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Bundle a step-down basket with a 2-min dial-in tutorial video, then auto-email buyers asking for a 15-sec UGC clip in exchange for 10% off their next order — builds content + reviews with zero ad spend.
-
 ## 2026-10-19
 
 ### Competitors
@@ -386,7 +366,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Perfect Daily Grind's piece on micro-lot sample packaging (high-barrier mini bags protecting aroma/moisture in transit) is a reminder that packaging quality signals premium-ness to buyers — worth checking whether Dialed's own shipping/packaging communicates the same care, not just green coffee.
-
 ## 2026-10-18
 
 ### Competitors
@@ -398,7 +377,6 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - HN's "Free Refills with This Tumbler" thread (a bagel shop sells a $15 reusable cup with free coffee refills, printing pure margin on repeat visits) is a useful small-retail loyalty model — worth testing a similar cheap-reusable + refill-perk mechanic on Dialed's bean/subscription side.
-
 ## 2026-10-18 (Weekly Summary)
 
 ### Competitors
@@ -414,15 +392,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 - Four straight days of signal (10/11, 10/13, 10/17) point to real SKU opportunities, not just content fodder: precision/step-down baskets, ceramic portafilters, WDT/puck-prep kits, and serviceable/repairable parts. Worth a real evaluation, not another blog post.
 - Caution flag: cheap subscription boxes are eroding margins industry-wide (Coffee Intelligence, 10/15) even as roasters keep offering them for acquisition — don't race to the bottom on recurring bundle pricing.
 - Slower-moving background signals worth tracking but not acting on yet: $8M federally funded coffee/cacao research lab (climate resilience, 10/16) and matcha/customized-drink pricing power at specialty shops (10/13).
-
-## 2026-10-17
-
-### Competitors
-- Step-down/precision baskets (VST/WAFO-style) and minimalist single-dose grinders are the current r/espresso obsession — basket choice is now debated as much as the machine. Ceramic portafilters and "water intelligence" systems also show up across 2026 gear-trend roundups.
-
-### Content Angles
-- Build a free "dial-in cheat sheet" (grind + dose by machine/bean) as an email-capture lead magnet on the site — rides the precision-obsession trend, cheap to build, grows the list for repeat/refill sales.
-
-### Product Opportunities
-- 2026 gear-trend roundups flag "repairable, locally serviceable" equipment and ceramic portafilter adoption as rising buyer expectations — worth evaluating spare-parts/upgrade-kit SKUs (ceramic portafilters, serviceable baskets) for repeat-purchase margin.
-
