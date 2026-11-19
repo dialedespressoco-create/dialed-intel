@@ -3,6 +3,18 @@
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
 
+## 2026-11-19 (Daily Digest)
+
+### Competitors
+- Gift-guide saturation continues unabated: Sprudge, WIRED, Serious Eats, and NYT all have live "best espresso gear" roundups as Black Friday nears, confirming the holiday-press wave flagged all month.
+
+### Content Angles
+- Gear Patrol is running a contrarian piece questioning whether "the golden rule" of espresso machine design is fundamentally flawed — a rare myth-check angle in a cycle otherwise dominated by buying guides; good contrast content for Dialed.
+- Perfect Daily Grind's grinder deep-dive (burr geometry, motor speed, and chamber design shaping clarity, sweetness, bitterness, and acidity before water even touches the puck) is solid, reusable copy fuel for product/education pages.
+
+### Product Opportunities
+- Ride the still-open gift-guide window: a fast "Espresso Gift Guide" bundle page (tamper + cup + bag of beans) pitched now, before Black Friday, captures peak gift-intent search traffic — same earned-placement logic flagged in past weeks.
+
 ## 2026-11-18 (Daily Digest)
 
 ### Competitors
@@ -367,13 +379,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Bundle a step-down basket with a 2-min dial-in tutorial video, then auto-email buyers asking for a 15-sec UGC clip in exchange for 10% off their next order — builds content + reviews with zero ad spend.
-## 2026-10-19
-
-### Competitors
-- Sustainability-meets-premium is the current gear-social thread: a plastic-free AeroPress and a waste-free Lavazza pod machine are trending alongside new premium compact entrants (ROWAN's Nova Reverie, Star Glory's Elle Home at IFA 2026) — eco claims now sit next to premiumization claims in buyer chatter.
-
-### Content Angles
-- Black Friday lead time is now — a "Holiday Dial-In Bundle" (machine + tamper + puck screen) with early VIP email access builds scarcity and lifts AOV before the rush; pairs well with the gift-guide push flagged last week.
-
-### Product Opportunities
-- Perfect Daily Grind's piece on micro-lot sample packaging (high-barrier mini bags protecting aroma/moisture in transit) is a reminder that packaging quality signals premium-ness to buyers — worth checking whether Dialed's own shipping/packaging communicates the same care, not just green coffee.
