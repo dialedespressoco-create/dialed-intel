@@ -3,6 +3,17 @@
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
 
+## 2026-11-20 (Daily Digest)
+
+### Competitors
+- "Best espresso machines 2026" buying-guide coverage spiked again this week (Food & Wine, TechRadar) spotlighting new Fellow, De'Longhi, and AeroPress releases — the entry/mid-tier upgrade-review cycle flagged in recent weeks keeps accelerating into Black Friday.
+
+### Content Angles
+- Perfect Daily Grind: Blue Bottle quietly swapped oat milk back to whole milk as its default — a signal that oat's "automatic default" status in specialty coffee may be slipping (lower marketing spend, health concerns, shifting taste); a useful milk-choice myth-check angle.
+
+### Product Opportunities
+- Publish a fast "2026 Machine Buying Guide" post/email now cross-selling Dialed's grinders/accessories as the matching setup — ride this week's review wave before Nov 27 Black Friday traffic peaks.
+
 ## 2026-11-19 (Daily Digest)
 
 ### Competitors
@@ -368,14 +379,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Publish a "Dialed 2026 Gift Guide" landing page now, before big retailers escalate PPC spend, to capture long-tail gift-guide SEO early; swap in live bundle pricing as Black Friday nears.
-## 2026-10-20
-
-### Competitors
-- No notable competitor-specific intel today.
-
-### Content Angles
-- Home espresso chatter is moving past raw stats: step-down baskets, minimalist single-dose grinders, and shorter "soup shot" pulls are the current buzz on TikTok/forums (Clive Coffee 2026 trend roundup) — good hook for product demo content.
-- Perfect Daily Grind: "What's it like being a barista in 2026?" — hospitality and adaptability now rank as high as technical skill in how customers judge a cafe; useful angle for customer-facing/brand content.
-
-### Product Opportunities
-- Bundle a step-down basket with a 2-min dial-in tutorial video, then auto-email buyers asking for a 15-sec UGC clip in exchange for 10% off their next order — builds content + reviews with zero ad spend.
