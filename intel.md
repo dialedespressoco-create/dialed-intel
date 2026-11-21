@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-21 (Daily Digest)
+
+### Competitors
+- No major new competitor-specific gear launches surfaced today; chatter continues to center on broader 2026 trend forecasts rather than single-brand news.
+
+### Content Angles
+- Clive Coffee's 2026 trend wrap names "soup shots" (longer, diluted pulls), shrinking milk drinks, step-down baskets, and minimalist single-dose grinders as the gear conversations shaping home espresso right now — solid demo/explainer fodder.
+- Sprudge (Nov 17) covered turning used coffee grounds into biodiesel and other eco-alternatives — a sustainability angle that could pair with a "what we do with our grounds" trust post.
+
+### Product Opportunities
+- Run a low-cost "Dial-In Spotlight" UGC push: customers post their shot specs/photo tagged @DialedEspressoCo for a discount code — free content pipeline + social proof, no new SKU needed (echoes the idea flagged Nov 17, worth re-running now).
+
 
 ## 2026-11-20 (Daily Digest)
 
@@ -369,13 +381,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Film a quick "feed rate" demo on one of Dialed's own grinders riding the slow-feed debate — cheap, timely content that positions Dialed as technically credible rather than just a retailer.
-## 2026-10-21
-
-### Competitors
-- FT's "The espresso pot test of Italian capitalism" — using moka-pot/bar espresso prices as an informal economic barometer for Italy, in the same spirit as the Big Mac Index; a reminder that everyday coffee pricing doubles as a macro signal worth tracking.
-
-### Content Angles
-- Black Friday deal-roundup coverage is already running industry-wide (Mashable's kitchen-deals piece, Oct 21) — a full five weeks before the holiday, confirming the gift-guide/holiday-prep window flagged last week is tightening fast.
-
-### Product Opportunities
-- Publish a "Dialed 2026 Gift Guide" landing page now, before big retailers escalate PPC spend, to capture long-tail gift-guide SEO early; swap in live bundle pricing as Black Friday nears.
