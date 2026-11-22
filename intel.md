@@ -2,6 +2,19 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-22 (Daily Digest)
+
+### Competitors
+- No major new competitor-specific gear launches surfaced today; broader trend/market coverage dominated over single-brand news.
+
+### Content Angles
+- Home espresso machines under $1,500 now ship with pressure profiling + PID as standard, per 2026 market analysis — the "prosumer" gap vs. $600 entry units is closing fast, feeding r/espresso's "is my budget machine really worse?" threads.
+- USDA's 2026/27 forecast: coffee production +6%, exports +8.9%, consumption at a record high — a ~10M-bag surplus should ease green coffee prices through 2027, a relief-from-volatility angle worth a customer note (Perfect Daily Grind).
+
+### Product Opportunities
+- A coffee site built an SEO/trust play by mining 772 Reddit threads into a no-affiliate "what real owners actually say" buying guide — it's ranking well. Dialed could run a scrappy version: an honest comparison page citing real owner reviews over spec sheets. Cheap trust + SEO builder.
+
+
 ## 2026-11-21 (Daily Digest)
 
 ### Competitors
@@ -370,14 +383,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - Run paid "content-only" UGC deals: pay real customers/micro-creators $75-600 for raw unboxing/review videos, no posting required, Dialed keeps usage rights 6-12mo for ads/product pages — cheaper and more trusted than polished ad creative, and builds on the "show us your setup" UGC thread already flagged 10/09 and 10/16.
-## 2026-10-22
-
-### Competitors
-- No notable competitor-specific intel today.
-
-### Content Angles
-- Home-espresso forums are re-litigating grind consistency: Perfect Daily Grind's new piece argues slow feed rate during grinding — not grind speed — may be the bigger lever for consistent shots, prompting grinder owners to retest technique over gear upgrades.
-- Specialty coffee is reshaping India's coffee-growing economy (new trade coverage) — quality standards, direct trade, and grower career paths are rising alongside raw export volume; a reminder that sourcing-story content resonates beyond just the gear side.
-
-### Product Opportunities
-- Film a quick "feed rate" demo on one of Dialed's own grinders riding the slow-feed debate — cheap, timely content that positions Dialed as technically credible rather than just a retailer.
