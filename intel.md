@@ -2,6 +2,19 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-25 (Daily Digest)
+
+### Competitors
+- No major new competitor-specific gear launches surfaced today; coverage stayed on trend/market news.
+
+### Content Angles
+- "Soup shots" (ultra-low-ratio, near tea-like pulls) and minimalist "step-down" baskets remain the live conversation in home-espresso circles — still solid demo/explainer fodder (Clive Coffee 2026 trend wrap).
+- Perfect Daily Grind: certified arabica stocks hit a 27-year low (186k bags) even as Colombia's Clearpath auction sold rare Gesha/Pink Bourbon lots for up to $905/kg — a "why prices move, why rarity still pays" angle for a customer note.
+
+### Product Opportunities
+- Film one quick Reel/TikTok explaining step-down baskets and showing which ones Dialed stocks — rides a live trend, ~10 min to produce, zero ad spend.
+
+
 ## 2026-11-22 (Daily Digest)
 
 ### Competitors
