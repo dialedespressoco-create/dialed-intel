@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-26 (Daily Digest)
+
+### Competitors
+- No major new competitor-specific gear launches surfaced today; coverage centered on broader market/trend data.
+
+### Content Angles
+- Home espresso is having a genuine "prosumer" moment: NCDT Fall 2026 data shows a record 47% of US adults had an espresso drink in the past week, and makers like Meraki (~$2M crowdfunded) are packing dual boilers, PID, and brew-by-weight into guided machines — closing the gap between beginner and pro gear (Perfect Daily Grind, Nov 5).
+- Not coffee-specific but worth flagging: 1Password disclosed a security incident this week — worth rotating any shared/business-login master passwords and checking recent account activity.
+
+### Product Opportunities
+- Ride the prosumer wave with a short "beginner to prosumer" reel/guide showing how to get repeatable, weight-based shots with Dialed gear — taps a trend people are actively searching, doubles as organic + ad content.
+
 ## 2026-11-25 (Daily Digest)
 
 ### Competitors
@@ -339,60 +351,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - SCA's "Why Does Milk Foam?" explainer breaks down the milk protein/fat chemistry behind good microfoam — a science-backed hook for bundling/upselling milk pitchers, thermometers, or steam-wand accessories around a "better latte art" angle.
-## 2026-10-26
-
-### Competitors
-- "Meraki" launched a new smart ritual-tracking espresso device (stupidDOPE, Oct 26) pushing data-logged, repeatable shots as the sell — the "smart/connected gear" wave flagged earlier this month keeps gaining real product entrants, not just concept coverage.
-
-### Content Angles
-- Small-business marketing coverage this week (Business.com, Hagadone) is leaning hard on "neighborhood connections" as the differentiator over paid reach — fits a weekly IG Stories repost of customer dial-in settings (grind size, shot time) under one hashtag: free social proof + community, zero ad spend.
-
-### Product Opportunities
-- Sprudge's "Cornucopia of Coffee Gear" roundup (Oct 10) is a reminder to keep a standing 2-min competitor-gear scan in the weekly routine — new releases keep surfacing faster than the monthly trend pieces capture.
-## 2026-10-25 (Daily Digest)
-
-### Competitors
-- De'Longhi's stake increase in DLI Limited (La Marzocco/Eversys parent) to 88% (~€2.36bn valuation) remains the gear-ownership story espresso forums keep returning to.
-
-### Content Angles
-- Arabica futures hit a 2-month high this week (El Niño fears, NY certified stocks lowest since 1999) — strong hook for a "lock in your price" pre-sale or subscription push before supplier costs force a bump.
-
-### Product Opportunities
-- No new SKU signal beyond the standing precision dial-in theme — keep watching margins as green coffee costs climb industry-wide.
-## 2026-10-25 (Weekly Summary)
-
-### Competitors
-- Consolidation at the top keeps accelerating: De'Longhi raised its stake in DLI Limited (La Marzocco/Eversys parent) from 61.56% to 88.02% for ~€662.5m, valuing the division at €2.36bn — premium/prosumer hardware is increasingly owned by a handful of conglomerates.
-- The entry-to-prosumer upgrade pipeline (Gaggia/Breville buyers moving up to Rocket/ECM/Profitec) is now a named 2026 trend piece, not just forum chatter (10/23) — but it's colliding with a real backlash: r/espresso's top post this week (10/24) is a viral rant on "upgrade culture," with users admitting they likely couldn't tell the difference in a blind taste test.
-
-### Content Angles
-- The holiday window is closing fast: gift-guide roundups and Black Friday deal coverage are already running industry-wide a full five weeks early (10/21), confirming last week's flagged urgency — a dedicated "Dialed 2026 Gift Guide" landing page should be live now, not later.
-- Counter-programming opportunity: gear-chasing fatigue is loud and real (10/24 r/espresso rant) alongside renewed "it's technique, not gear" sentiment (10/22 feed-rate debate) — honest, blind-taste/side-by-side content ("stop upgrading, start dialing in") should outperform another gear-push post right now.
-- Scales, step-down baskets, and minimalist "soup shot" dosing keep resurfacing across TikTok/forums (10/18, 10/20) — short demo/explainer content on gear Dialed already carries is cheap, timely, and on-trend.
-
-### Product Opportunities
-- Precision dial-in tools (scales, step-down baskets, puck-prep/WDT, ceramic portafilters) remain the single clearest recurring SKU theme of the month — four separate signals in one week alone (10/18, 10/20, 10/22, 10/23) point to a real sourcing evaluation, not just more blog content.
-- Paid content-only UGC deals ($75-600 for raw video, no posting required, 6-12mo usage rights) are emerging as a cheaper, more trusted alternative to polished ad creative (10/23) — worth testing against Dialed's existing "show us your setup" UGC thread.
-- Watch input costs: arabica futures hit their highest level since late August on low NY certified stocks and El Niño concerns (10/24) — green-bean cost pressure is building even as premium machine demand stays strong.
-## 2026-10-24
-
-### Competitors
-- De'Longhi upped its stake in professional-division parent DLI Limited (home to La Marzocco and Eversys) from 61.56% to 88.02%, paying ~€662.5m and valuing the division at €2.36bn — continued consolidation of premium/prosumer-adjacent espresso hardware under one owner.
-
-### Content Angles
-- r/espresso's top post this week is a viral rant on "upgrade culture" — users chasing $1k+ grinders for marginal gains while admitting they likely couldn't tell the difference in a blind taste test. Real community fatigue with gear-chasing right now; good hook for honest, non-salesy gear content.
-- Arabica futures (Dec ICE contract) hit their highest level since late Aug on low NY certified stocks (lowest since 1999) and El Niño concerns; green coffee costs staying high/unpredictable even as premium machine demand keeps rising (PDG Friday recap, 23 Oct).
-
-### Product Opportunities
-- Publish a "stop upgrading, start dialing in" piece: side-by-side budget vs premium setup, same beans, blind taste poll. Rides the r/espresso upgrade-fatigue sentiment and positions Dialed as the honest advisor rather than another gear-pusher.
-## 2026-10-23
-
-### Competitors
-- Prosumer tier keeps mainstreaming: enthusiasts who learned on a Gaggia/Breville are now moving up to genuine E61/rotary-pump machines (Rocket/ECM/Profitec) as a deliberate second purchase — same upgrade pipeline flagged 10/06, now framed as a broader 2026 trend piece, not just forum chatter.
-
-### Content Angles
-- "Data-driven dial-in" is becoming standard, not niche — smart scales and shot-logging apps are increasingly default kit for anyone serious about consistency (2026 gear-trend roundup). Pairs well with a scale/logging-app bundle post.
-- New Royal Society Open Science research built the first real physics model predicting espresso puck permeability from grind size — turns flow-rate dial-in from trial-and-error into something calculable; solid "science behind your shot" content hook.
-
-### Product Opportunities
-- Run paid "content-only" UGC deals: pay real customers/micro-creators $75-600 for raw unboxing/review videos, no posting required, Dialed keeps usage rights 6-12mo for ads/product pages — cheaper and more trusted than polished ad creative, and builds on the "show us your setup" UGC thread already flagged 10/09 and 10/16.
