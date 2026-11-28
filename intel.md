@@ -2,6 +2,18 @@
 
 _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary. Newest entries at the top. Entries older than 30 days are trimmed to keep this file under 500 lines._
 
+## 2026-11-28 (Daily Digest)
+
+### Competitors
+- Black Friday coffee-deal saturation is still the dominant story (Sprudge: "Black Friday Coffee Deals To Boggle The Mind"), while new specialty shops keep opening despite the macro deal-noise — e.g. Quimbleshaw (NYC Lower East Side) and Bryant's AR Mudd Co. pairing coffee with a pottery studio, a reminder that experience/concept still differentiates beyond price.
+
+### Content Angles
+- Today (Nov 28) is Small Business Saturday, landing right after the Black Friday big-box deal wave — strong moment for a "shop small" framing that contrasts curated/human-backed picks against algorithmic mega-retailer deals.
+- Coffee Intelligence's "The Founder's Dilemma: Stay Small or Scale?" is a useful read on growth-stage tradeoffs relevant to Dialed's own next-stage planning.
+
+### Product Opportunities
+- Run a 24-48h Small Business Saturday email/IG push for Dialed positioning "real support + curated gear" against mass-market BF machine sales — cheap, timely, no new SKU needed.
+
 ## 2026-11-27 (Daily Digest)
 
 ### Competitors
@@ -343,13 +355,3 @@ _Auto-published by SCHOLAR (OpenClaw) after each daily digest and weekly summary
 
 ### Product Opportunities
 - EU's deforestation law (EUDR) just pulled soluble/instant coffee into scope — tightening traceability rules industry-wide could squeeze green-coffee sourcing/pricing into 2027; worth monitoring supplier pass-through costs.
-## 2026-10-28
-
-### Competitors
-- Compact, design-forward espresso machines are the gear-press theme this week — CNET covered a jet-engine-styled machine the size of a moka pot, alongside fresh hands-on reviews of De'Longhi's All-in-One and Magnifica Start (NY Post, TechRadar, Oct 27) — "small footprint, big design" is overtaking raw spec chasing in gear coverage.
-
-### Content Angles
-- Build a "small-space setup" bundle/landing page (compact machine + grinder + minimal accessories) targeted at apartment/dorm buyers — rides this week's compact-gear press wave without new SKUs, just a themed collection + email push.
-
-### Product Opportunities
-- Worth a quick eval of whether Dialed should carry one true ultra-compact machine SKU — press interest in jet-engine/moka-pot-sized units suggests real buyer demand for small-footprint gear, not just novelty coverage.
